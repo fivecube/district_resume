@@ -6,7 +6,7 @@
 <h1 align="center" style="color:white;">Mohit Singh Chouhan</h1>
 
 <p align="center">
-  💻 Backend engineer with a solid foundation in <strong>distributed systems</strong>,<br>
+  💻 Senior Backend Engineer with a solid foundation in <strong>distributed systems</strong>,<br>
   specializing in <strong>scalable architecture</strong>, <strong>efficient data modeling</strong>,<br>
   and <strong>real-time, reliable async processing</strong>.
 </p>
@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <strong style="color:lightgray;">Senior Software Engineer | Backend | Distributed Systems</strong><br>
+  <strong style="color:lightgray;">Contact</strong><br>
   <a href="mailto:mohitchouhan1947@gmail.com">📧 mohitchouhan1947@gmail.com</a> | 📞 9001677464<br>
   📍 Bangalore, India  
 </p>
