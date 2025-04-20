@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1A4zliSrQyBInl9AZ0jy7rIZObU5qn9Vt" width="100%" alt="Banner Image">
+  <img src="https://raw.githubusercontent.com/fivecube/district_resume/main/top_bar.png" width="100%" alt="Banner Image">
 </p>
 
 <h1 align="center" style="color:white;">Mohit Singh Chouhan</h1>
