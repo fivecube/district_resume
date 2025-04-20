@@ -4,6 +4,15 @@
 </p>
 
 <h1 align="center" style="color:white;">Mohit Singh Chouhan</h1>
+
+<p align="center">
+  💻 Backend engineer with a solid foundation in <strong>distributed systems</strong>,<br>
+  specializing in <strong>scalable architecture</strong>, <strong>efficient data modeling</strong>,<br>
+  and <strong>real-time, reliable async processing</strong>.
+</p>
+
+---
+
 <p align="center">
   <strong style="color:lightgray;">Senior Software Engineer | Backend | Distributed Systems</strong><br>
   <a href="mailto:mohitchouhan1947@gmail.com">📧 mohitchouhan1947@gmail.com</a> | 📞 9001677464<br>
@@ -52,9 +61,9 @@
 
 ## 🧰 Skills
 
-- **Backend & Dev Tools**: Python, Django, Celery, RabbitMQ, Redis, Elasticsearch
+- **Backend & Dev Tools**: Python, Django, Celery, RabbitMQ, Redis (could learn others)
 - **Infrastructure**: AWS, GCP, Docker
-- **Databases**: MySQL, PostgreSQL, NoSQL
+- **Databases**: PostgreSQL
 - **Collaboration**: Git, Jira
 - **Other**: Strong Communication, Distributed Systems, Clean Code Principles
 
@@ -63,7 +72,7 @@
 ## 🧪 Projects
 
 ### 🧠 **Semantic Analysis of Stack Overflow Queries**  
-_(IBM Hack Challenge 2019 Winning Project)_
+_(IBM Hack Challenge Winning Project)_
 
 - Application to find the most relevant answers for programming queries using NLP and IBM Watson.
 - Tech Stack: Python, PyQt, NLTK, SpaCy
@@ -79,9 +88,11 @@ _(IBM Hack Challenge 2019 Winning Project)_
 
 ## 🏆 Achievements
 
-- 🥈 Silver Winner – **Locad Hackathon 1.0** (2022)
-- 🏆 Winner – **IBM Hack Challenge** (2019)
-- 📘 Taught Python to hundreds of students via Edyoda (part-time)
+- 🌐 Built Open APIs for Locad’s platform → [developer.golocad.com](https://developer.golocad.com/)
+- 💰 Built an Auto Suspension System that reduced revenue collection cycle for Locad.
+- 🥈 Silver Winner – **Locad Hackathon 1.0**
+- 🏆 Winner – **IBM Hack Challenge**
+- 📘 Taught Python to hundreds of students via Edyoda.
 
 ---
 
