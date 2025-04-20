@@ -15,10 +15,8 @@
 
 <p align="center">
   <strong style="color:lightgray;">Contact</strong><br>
-  <a href="mailto:mohitchouhan1947@gmail.com">📧 mohitchouhan1947@gmail.com</a> | 📞 9001677464<br>
-  📍 Bangalore, India  
-</p>
-<p align="center">
+  <a href="mailto:mohitchouhan1947@gmail.com">📧 mohitchouhan1947@gmail.com</a>
+  <br>📞 9001677464<br>
   <a href="https://linkedin.com/in/5cube">🔗 LinkedIn</a> |
   <a href="https://github.com/fivecube">💻 GitHub</a>
 </p>
