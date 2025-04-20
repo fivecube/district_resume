@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fivecube/district_resume/main/top_bar.png" width="100%" alt="Banner Image">
+  <img src="https://raw.githubusercontent.com/fivecube/district_resume/main/top_bar.jpg" width="100%" alt="Banner Image">
 </p>
 
 <h1 align="center" style="color:white;">Mohit Singh Chouhan</h1>
@@ -109,5 +109,5 @@ _(IBM Hack Challenge Winning Project)_
   <i>“Building reliable systems that scale.”</i>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fivecube/district_resume/main/down_bar.png" width="100%" alt="Banner Image">
+  <img src="https://raw.githubusercontent.com/fivecube/district_resume/main/down_bar.jpg" width="100%" alt="Banner Image">
 </p>
